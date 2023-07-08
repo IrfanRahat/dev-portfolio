@@ -5,6 +5,7 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
+    margin: 0px 220px;
 }
 
 nav>ul {
@@ -43,4 +44,18 @@ nav a {
 .mary {
     font-size: 45px;
     font-weight: 800;
+}
+.head{
+    background: #FFF8F3;
+    
+}
+.profile{
+    width: 584px;
+    height: 676px;
+}
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 220px;
+    align-items: center;
+    /* justify-content: space-between; */
 }
