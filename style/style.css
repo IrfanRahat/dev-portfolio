@@ -138,3 +138,34 @@ text-align: center;
     font-weight: lighter;
     color: #757575;
 }
+.ima2{
+    padding: 30px 150px;
+}
+.skil-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.skil{
+    width: 267px;
+height: 377px;
+    border-radius: 5px;
+background: #ffffff;
+box-shadow: 0px 6px 50px 10px rgba(0, 0, 0, 0.06);
+}
+.skill-name{
+    font-size: 20px;
+    text-align: center;
+}
+.logo{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.skill-description{
+    color: #757575;
+
+font-size: 16px;
+font-weight: 400;
+padding: 0 30px;
+
+}
