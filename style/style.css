@@ -169,3 +169,46 @@ font-weight: 400;
 padding: 0 30px;
 
 }
+.my-education-container{
+    display: flex;
+    justify-content: space-between;
+    /* text-align: left; */
+    gap: 20px;
+}
+.resume-title{
+    font-size: 35px;
+    text-align: center;
+    padding: 100px;
+}
+.my-education{
+    margin-right: 100px;
+    text-align: justify;
+}
+.my-experience{
+    text-align: justify;
+   
+}
+.experience{
+    font-size: 25px;
+    padding-bottom: 25px;
+    color: #474747;
+}
+.skill-name2{
+    font-size: 25px;
+    color: #474747;
+ 
+    margin-bottom: -10px;
+}
+.university, .company-name{
+    font-size: 20px;
+    color: #757575;
+}
+.skill-paragraph, .job-description{
+    font-size: 16px;
+    color: #757575;
+    padding-bottom:20px ;
+}
+.download{
+    text-align: center;
+    padding-top: 40px;
+}
